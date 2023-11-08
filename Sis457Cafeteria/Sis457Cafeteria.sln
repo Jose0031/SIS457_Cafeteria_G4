@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpCafeteria", "CpCafeteria\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadCafeteria", "CadCafeteria\CadCafeteria.csproj", "{B743EF76-4B8F-48A4-87D2-D9FC42B57F42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnCafeteria", "ClnCafeteria\ClnCafeteria.csproj", "{90C392CA-E796-4E64-81D1-9D53C7570545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B743EF76-4B8F-48A4-87D2-D9FC42B57F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B743EF76-4B8F-48A4-87D2-D9FC42B57F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B743EF76-4B8F-48A4-87D2-D9FC42B57F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C392CA-E796-4E64-81D1-9D53C7570545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C392CA-E796-4E64-81D1-9D53C7570545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C392CA-E796-4E64-81D1-9D53C7570545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C392CA-E796-4E64-81D1-9D53C7570545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
