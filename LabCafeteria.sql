@@ -136,7 +136,7 @@ CREATE PROC paVentaListar @parametro VARCHAR(50)
 AS 
   SELECT v.*, u.usuario, c.razonSocial
   FROM Venta v
-  INNER JOIN Usuario u ON u.id = v.idUsuario
+  INNER JOIN Usuario u ON u.idUsuario = v.idUsuario
   INNER JOIN Cliente c ON c.id = v.idCliente 
   WHERE v.estado<>-1 AND c.razonSocial LIKE '%'+REPLACE(@parametro,' ','%')+'%';
 
@@ -144,7 +144,7 @@ CREATE PROC paVentaDetalleListar @parametro VARCHAR(50)
 AS 
   SELECT vd.*, p.nombre, c.razonSocial
   FROM VentaDetalle vd
-  INNER JOIN Producto p ON p.id = vd.idProducto
+  INNER JOIN Producto p ON p.idProducto = vd.idProducto
   INNER JOIN Venta v ON v.id = vd.idVenta
   INNER JOIN Cliente c ON c.id = v.idCliente 
   WHERE vd.estado<>-1 AND c.razonSocial LIKE '%'+REPLACE(@parametro,' ','%')+'%';
