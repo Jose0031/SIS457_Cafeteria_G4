@@ -48,9 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClienteCln.cs" />
     <Compile Include="EmpleadoCln.cs" />
     <Compile Include="ProductoCln.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VentaCln.cs" />
+    <Compile Include="VentaDetalleCln.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CadCafeteria\CadCafeteria.csproj">
