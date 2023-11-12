@@ -31,3 +31,14 @@ C:\Users\David\OneDrive\Escritorio\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafet
 C:\Users\David\OneDrive\Escritorio\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.CopyComplete
 C:\Users\David\OneDrive\Escritorio\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe
 C:\Users\David\OneDrive\Escritorio\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.pdb
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmPrincipal.resources
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.CopyComplete
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmAutenticacion.resources
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.dll
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.dll
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.dll
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.xml
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.xml
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.xml
+C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe.licenses

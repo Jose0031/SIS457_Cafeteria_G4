@@ -63,6 +63,16 @@ namespace CpCafeteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2931151_delete_x_bin_recycle_remove_exit_close {
+            get {
+                object obj = ResourceManager.GetObject("2931151_delete_x_bin_recycle_remove_exit_close", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cerraractual {
             get {
                 object obj = ResourceManager.GetObject("cerraractual", resourceCulture);
@@ -93,6 +103,26 @@ namespace CpCafeteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap lock_padlock_symbol_for_security_interface {
+            get {
+                object obj = ResourceManager.GetObject("lock-padlock-symbol-for-security-interface", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo {
+            get {
+                object obj = ResourceManager.GetObject("Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap maximizaractual1 {
             get {
                 object obj = ResourceManager.GetObject("maximizaractual1", resourceCulture);
@@ -106,6 +136,26 @@ namespace CpCafeteria.Properties {
         internal static System.Drawing.Bitmap minimizaractual {
             get {
                 object obj = ResourceManager.GetObject("minimizaractual", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap padlock {
+            get {
+                object obj = ResourceManager.GetObject("padlock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap profile_user {
+            get {
+                object obj = ResourceManager.GetObject("profile-user", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
