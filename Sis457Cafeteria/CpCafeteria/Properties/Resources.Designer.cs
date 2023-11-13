@@ -73,6 +73,47 @@ namespace CpCafeteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _55680247_retro_de_fondo_sin_fisuras_bebidas_de_café_en_colores_marrones_para_la_cafetería_o_el_uso_del_diseño {
+            get {
+                object obj = ResourceManager.GetObject("55680247-retro-de-fondo-sin-fisuras-bebidas-de-café-en-colores-marrones-para-la-c" +
+                        "afetería-o-el-uso-del-diseño", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cafe {
+            get {
+                object obj = ResourceManager.GetObject("cafe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Cafe_vienes {
+            get {
+                object obj = ResourceManager.GetObject("Cafe-vienes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cafe1 {
+            get {
+                object obj = ResourceManager.GetObject("cafe1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cerraractual {
             get {
                 object obj = ResourceManager.GetObject("cerraractual", resourceCulture);
@@ -96,6 +137,16 @@ namespace CpCafeteria.Properties {
         internal static System.Drawing.Bitmap Como_atraer_clientes_a_una_cafeteria {
             get {
                 object obj = ResourceManager.GetObject("Como-atraer-clientes-a-una-cafeteria", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap guia_de_cafeterias_en_cdmx_05 {
+            get {
+                object obj = ResourceManager.GetObject("guia-de-cafeterias-en-cdmx-05", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

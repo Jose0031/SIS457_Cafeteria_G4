@@ -24,7 +24,12 @@ namespace CpCafeteria
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            new FrmPrincipal().ShowDialog();
+            this.Hide();
+            FrmBienvenido bienvenido = new FrmBienvenido();
+            bienvenido.ShowDialog();
+            FrmPrincipal form = new FrmPrincipal();
+            form.Show();
+            this.Hide();
         }
     }
 }

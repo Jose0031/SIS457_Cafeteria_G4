@@ -108,6 +108,13 @@ namespace CpCafeteria
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color6);
+            DialogResult result = MessageBox.Show("¿Estas seguro que quieres salir?", "Abandonar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+                FrmAutenticacion form = new FrmAutenticacion();
+                form.ShowDialog();
+            }
         }
 
         private void pbxLogo_Click(object sender, EventArgs e)

@@ -42,3 +42,15 @@ C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug
 C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.xml
 C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.xml
 C:\ProyectoFinalSis457\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe.licenses
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.dll
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.dll
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.dll
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.xml
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.xml
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.xml
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmAutenticacion.resources
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe.licenses
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CircularProgressBar.dll
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\WinFormAnimation.dll
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CircularProgressBar.xml
+D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmBienvenido.resources
