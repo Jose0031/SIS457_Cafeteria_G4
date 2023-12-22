@@ -54,3 +54,27 @@ D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\Circular
 D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\WinFormAnimation.dll
 D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CircularProgressBar.xml
 D:\SIS457_LAB\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmBienvenido.resources
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CpCafeteria.exe.config
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CpCafeteria.exe
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CpCafeteria.pdb
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CircularProgressBar.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\FontAwesome.Sharp.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\WinFormAnimation.dll
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.4.xml
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Command.4.xml
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\C1.Win.C1Input.4.xml
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\bin\Debug\CircularProgressBar.xml
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.AssemblyReference.cache
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmAutenticacion.resources
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmBienvenido.resources
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.FrmPrincipal.resources
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.Properties.Resources.resources
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.GenerateResource.cache
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe.licenses
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.CoreCompileInputs.cache
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.csproj.CopyComplete
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.exe
+D:\borrar commit\Nueva carpeta\SIS457_Cafeteria_G4\Sis457Cafeteria\CpCafeteria\obj\Debug\CpCafeteria.pdb
